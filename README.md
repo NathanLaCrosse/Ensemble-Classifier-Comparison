@@ -1,3 +1,4 @@
+# Ensemble Classifier Comparison - Crop Selection
 In this repository, we will be comparing two different machine learning ensemble algorithms and their performance on the Crop Recommendation Dataset.
 
 Dataset Link: https://www.kaggle.com/datasets/varshitanalluri/crop-recommendation-dataset/data
